@@ -1,0 +1,19 @@
+{
+  "name": "authorization-and-authentication-system",
+  "version": "1.0.0",
+  "description": "authorization and authentication system implemented in nodejs and express.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/chimebukanian/node-authorization-and-authentication-system.git"
+  },
+  "author": "chimebuka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chimebukanian/node-authorization-and-authentication-system/issues"
+  },
+  "homepage": "https://github.com/chimebukanian/node-authorization-and-authentication-system#readme"
+}
